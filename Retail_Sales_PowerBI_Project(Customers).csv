@@ -1,0 +1,201 @@
+﻿Customer_ID,Gender,Age,City,Membership_Status
+1001,Male,42,Lagos,Gold
+1002,Female,58,Kano,Silver
+1003,Male,22,Lagos,Gold
+1004,Male,36,Lagos,Regular
+1005,Male,42,Port Harcourt,Silver
+1006,Female,28,Port Harcourt,Silver
+1007,Male,60,Port Harcourt,Gold
+1008,Male,56,Abuja,Gold
+1009,Male,28,Ibadan,Silver
+1010,Female,58,Kano,Regular
+1011,Female,21,Abuja,Regular
+1012,Female,43,Port Harcourt,Regular
+1013,Male,54,Port Harcourt,Regular
+1014,Female,43,Ibadan,Regular
+1015,Female,26,Abuja,Gold
+1016,Female,55,Ibadan,Gold
+1017,Female,41,Abuja,Regular
+1018,Female,23,Lagos,Regular
+1019,Male,58,Abuja,Gold
+1020,Female,56,Lagos,Silver
+1021,Female,56,Ibadan,Gold
+1022,Female,53,Lagos,Gold
+1023,Male,52,Port Harcourt,Gold
+1024,Female,25,Port Harcourt,Silver
+1025,Male,47,Lagos,Gold
+1026,Female,50,Abuja,Gold
+1027,Male,58,Port Harcourt,Gold
+1028,Male,27,Port Harcourt,Regular
+1029,Male,56,Port Harcourt,Silver
+1030,Male,25,Port Harcourt,Silver
+1031,Male,21,Abuja,Gold
+1032,Male,23,Ibadan,Regular
+1033,Male,26,Ibadan,Gold
+1034,Male,34,Kano,Gold
+1035,Female,31,Kano,Gold
+1036,Male,37,Ibadan,Gold
+1037,Female,46,Kano,Silver
+1038,Male,33,Abuja,Regular
+1039,Female,19,Kano,Gold
+1040,Male,55,Abuja,Regular
+1041,Male,58,Lagos,Regular
+1042,Male,20,Port Harcourt,Regular
+1043,Male,35,Ibadan,Regular
+1044,Male,54,Kano,Silver
+1045,Male,48,Ibadan,Regular
+1046,Male,24,Ibadan,Silver
+1047,Female,44,Ibadan,Gold
+1048,Male,59,Lagos,Regular
+1049,Female,39,Lagos,Regular
+1050,Male,30,Kano,Silver
+1051,Male,45,Abuja,Silver
+1052,Female,33,Lagos,Silver
+1053,Male,21,Kano,Regular
+1054,Male,33,Abuja,Silver
+1055,Female,48,Abuja,Silver
+1056,Male,28,Ibadan,Regular
+1057,Female,34,Ibadan,Silver
+1058,Female,53,Ibadan,Regular
+1059,Male,36,Abuja,Regular
+1060,Male,38,Lagos,Regular
+1061,Female,50,Kano,Regular
+1062,Male,50,Lagos,Regular
+1063,Male,56,Lagos,Gold
+1064,Male,43,Lagos,Gold
+1065,Male,55,Kano,Regular
+1066,Male,44,Kano,Gold
+1067,Female,34,Abuja,Gold
+1068,Female,33,Port Harcourt,Silver
+1069,Male,60,Port Harcourt,Silver
+1070,Female,22,Lagos,Silver
+1071,Male,22,Kano,Regular
+1072,Female,26,Port Harcourt,Regular
+1073,Male,41,Port Harcourt,Regular
+1074,Female,52,Port Harcourt,Gold
+1075,Male,60,Kano,Silver
+1076,Male,26,Port Harcourt,Regular
+1077,Male,53,Abuja,Silver
+1078,Female,56,Abuja,Gold
+1079,Female,31,Port Harcourt,Gold
+1080,Female,34,Lagos,Regular
+1081,Female,35,Lagos,Regular
+1082,Female,26,Port Harcourt,Regular
+1083,Female,53,Ibadan,Gold
+1084,Male,25,Lagos,Gold
+1085,Male,52,Lagos,Silver
+1086,Male,45,Abuja,Regular
+1087,Female,41,Lagos,Silver
+1088,Male,33,Lagos,Silver
+1089,Female,57,Abuja,Regular
+1090,Male,29,Ibadan,Regular
+1091,Male,39,Ibadan,Gold
+1092,Male,35,Abuja,Gold
+1093,Male,42,Lagos,Silver
+1094,Male,30,Ibadan,Silver
+1095,Female,32,Abuja,Regular
+1096,Male,43,Port Harcourt,Silver
+1097,Male,35,Port Harcourt,Gold
+1098,Female,52,Port Harcourt,Regular
+1099,Male,34,Abuja,Gold
+1100,Female,20,Lagos,Gold
+1101,Female,40,Port Harcourt,Silver
+1102,Male,42,Kano,Regular
+1103,Female,20,Ibadan,Regular
+1104,Male,41,Ibadan,Regular
+1105,Female,57,Port Harcourt,Gold
+1106,Male,37,Kano,Silver
+1107,Female,38,Ibadan,Gold
+1108,Female,53,Abuja,Regular
+1109,Female,60,Ibadan,Gold
+1110,Male,57,Kano,Silver
+1111,Female,53,Lagos,Silver
+1112,Female,31,Ibadan,Gold
+1113,Female,47,Ibadan,Silver
+1114,Male,50,Ibadan,Gold
+1115,Male,60,Lagos,Silver
+1116,Female,23,Abuja,Gold
+1117,Female,32,Abuja,Regular
+1118,Male,20,Abuja,Silver
+1119,Male,47,Ibadan,Gold
+1120,Male,42,Ibadan,Silver
+1121,Male,27,Lagos,Regular
+1122,Female,32,Abuja,Gold
+1123,Female,21,Kano,Regular
+1124,Male,47,Abuja,Silver
+1125,Female,46,Kano,Gold
+1126,Female,53,Ibadan,Regular
+1127,Female,46,Port Harcourt,Regular
+1128,Female,51,Ibadan,Gold
+1129,Male,35,Ibadan,Regular
+1130,Female,33,Port Harcourt,Silver
+1131,Female,52,Lagos,Regular
+1132,Male,32,Ibadan,Gold
+1133,Male,31,Lagos,Silver
+1134,Female,39,Kano,Silver
+1135,Female,21,Abuja,Silver
+1136,Female,55,Lagos,Gold
+1137,Female,48,Lagos,Silver
+1138,Female,42,Ibadan,Gold
+1139,Male,49,Abuja,Silver
+1140,Female,49,Lagos,Silver
+1141,Female,60,Ibadan,Gold
+1142,Male,47,Abuja,Gold
+1143,Male,43,Kano,Gold
+1144,Male,23,Ibadan,Regular
+1145,Female,29,Lagos,Silver
+1146,Female,38,Abuja,Silver
+1147,Female,39,Ibadan,Silver
+1148,Female,34,Lagos,Silver
+1149,Male,52,Lagos,Silver
+1150,Male,59,Lagos,Gold
+1151,Male,19,Abuja,Regular
+1152,Male,57,Abuja,Regular
+1153,Male,48,Lagos,Gold
+1154,Male,47,Port Harcourt,Silver
+1155,Male,56,Kano,Gold
+1156,Male,28,Port Harcourt,Regular
+1157,Male,37,Kano,Gold
+1158,Female,43,Abuja,Regular
+1159,Male,24,Port Harcourt,Gold
+1160,Male,54,Lagos,Silver
+1161,Female,60,Port Harcourt,Regular
+1162,Female,18,Ibadan,Silver
+1163,Male,45,Port Harcourt,Gold
+1164,Female,27,Ibadan,Regular
+1165,Female,57,Kano,Silver
+1166,Female,45,Kano,Silver
+1167,Female,33,Lagos,Silver
+1168,Female,33,Ibadan,Gold
+1169,Female,39,Lagos,Silver
+1170,Female,29,Ibadan,Regular
+1171,Female,34,Port Harcourt,Silver
+1172,Female,53,Lagos,Gold
+1173,Male,23,Abuja,Gold
+1174,Female,49,Kano,Regular
+1175,Female,59,Ibadan,Silver
+1176,Male,23,Port Harcourt,Regular
+1177,Female,33,Port Harcourt,Gold
+1178,Female,48,Kano,Gold
+1179,Female,45,Kano,Silver
+1180,Female,47,Port Harcourt,Silver
+1181,Female,32,Lagos,Gold
+1182,Male,38,Lagos,Gold
+1183,Male,30,Abuja,Gold
+1184,Female,35,Kano,Gold
+1185,Female,24,Abuja,Silver
+1186,Male,41,Abuja,Silver
+1187,Male,52,Abuja,Silver
+1188,Male,21,Kano,Silver
+1189,Male,58,Ibadan,Regular
+1190,Male,54,Port Harcourt,Silver
+1191,Female,46,Port Harcourt,Regular
+1192,Male,34,Ibadan,Regular
+1193,Male,43,Ibadan,Regular
+1194,Male,27,Abuja,Gold
+1195,Female,23,Abuja,Regular
+1196,Female,56,Kano,Gold
+1197,Male,51,Ibadan,Silver
+1198,Female,37,Kano,Silver
+1199,Female,54,Kano,Regular
+1200,Male,31,Abuja,Silver
