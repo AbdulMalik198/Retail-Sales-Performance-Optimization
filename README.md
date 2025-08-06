@@ -1,8 +1,8 @@
-# Retail-Sales-Performance-Optimization
+# Retail Sales Analysis & Performance Optimization Using Power BI
+
 A Power BI-driven retail sales analysis and performance optimization project, uncovering insights on product performance, branch profitability, customer behavior, and staff efficiency to guide data-driven business decisions.
 
 
-# Retail Sales Analysis & Performance Optimization Using Power BI
 
 ## 📌 Overview
 A mid-sized retail chain faced inconsistent sales performance.  
