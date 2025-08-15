@@ -106,7 +106,4 @@ Management needed to answer:
 **Staff Performance**
 ![Staff Performance](visuals/staff_performance.png)
 
----
 
-## 📬 Contact
-**Your Name** – [LinkedIn](#) | [Email](#)
