@@ -1,20 +1,5 @@
 # Retail Sales Analysis & Performance Optimization Using Power BI
 
-
-Retail-Sales-Analysis-PowerBI/
-│
-├── README.md               
-│
-├── visuals/
-│   ├── dashboard_overview.png
-│   ├── product_performance.png
-│   ├── branch_profitability.png
-│   ├── customer_insights.png
-│   └── staff_performance.png
-│
-└── Retail_Sales_Report.pdf  # Full report
-
-
 ## 📌 Overview
 A mid-sized retail chain faced inconsistent sales performance.  
 This project uses **Power BI** to analyze product sales, branch profitability, staff performance, and customer behavior, offering **actionable insights** to boost profitability.
